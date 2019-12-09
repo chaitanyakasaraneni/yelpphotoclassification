@@ -9,3 +9,17 @@ The dataset used in this project is taken from the yelp website. It can be downl
 https://www.yelp.com/dataset
 ```
 
+## Models Used
+
+### Image Classification
+```
+2-layer CNN
+Inception V3 model (with pretrained ImageNet weights)
+SqueezeNet
+```
+
+### Image Tagging
+```
+XGBoost
+Tensorflow based 3-layer CNN
+```
