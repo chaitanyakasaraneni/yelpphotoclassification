@@ -20,3 +20,9 @@ The histogram of oriented gradients (HOG) is a feature descriptor used in comput
 
 ###### Data Augmentation
 Image data augmentation is a technique that can be used to artificially expand the size of a training dataset by creating modified versions of images in the dataset. Training deep learning neural network models on more data can result in more skillful models, and the augmentation techniques can create variations of the images that can improve the ability of the fit models to generalize what they have learned to new images. For more [click here](https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/)
+
+### Performance Analysis
+| Model       | Accuracy   |
+|:-------------:|:-------------:|
+|XGBoost| 64% |
+|3-layered CNN | 94% |
